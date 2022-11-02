@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GenerateNewViewFromCode</string>
+    <string name="alien">Alien +</string>
 </resources>
